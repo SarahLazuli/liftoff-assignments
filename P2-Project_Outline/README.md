@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+In the past month, my dad and I have lamented on how Covid 19 wedged itself between us and our cardgame-loving family. Our favorite game to play is 3 To 13, so I've decided to make an online application to fix that problem. Users will be able to log into the website and make an account for playing 3 to 13, after which they can create a server and invite friends to a game. That way you won't have to drive up to Wisconsin to get your cardgame fix!
 ### Features
-Include Features here
+1. User login
+2. SQL database score-keeping per each user
+3. 
 ### Technologies
-Include Technologies here
+C#
+Html
+SQL
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn how to run and connect a website to a server
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/qJPBCxCq/three-to-thirteen
